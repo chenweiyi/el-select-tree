@@ -34,6 +34,7 @@ export const ElSelectMixinOptions = {
     reserveKeyword: Boolean,
     valueKey: String,
     collapseTags: Boolean,
+    showTagMaxNumber: Number,
     popperAppendToBody: {
       type: Boolean,
       default: true,
